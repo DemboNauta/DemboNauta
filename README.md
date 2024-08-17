@@ -19,3 +19,5 @@ Edgar Milá Molero 🌟<br>¡Hola! 👋 Soy Edgar, un apasionado del desarrollo 
 [![](https://visitcount.itsvg.in/api?id=DemboNauta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### CodeWars
+![](https://www.codewars.com/users/3dgar/badges/large)
