@@ -1,6 +1,6 @@
-#  Sobre mi:
+#  Sobre mi <b>Edgar Milá Molero<b>:
 
-<b>Edgar Milá Molero<b>
+
 Soy Edgar, un entusiasta del desarrollo web de Cuenca, España, con 19 años. Actualmente, trabajo como Fullstack Developer en Soluciones IP, donde contribuyo al desarrollo del CRM Mobilia utilizando tecnologías como Angular y .NET. Mi pasión por la tecnología me impulsa a explorar continuamente el ecosistema del desarrollo web.
 
 Acerca de mí:
