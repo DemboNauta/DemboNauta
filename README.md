@@ -1,5 +1,15 @@
 #  Sobre mi:
-Edgar Milá Molero 🌟<br>¡Hola! 👋 Soy Edgar, un apasionado del desarrollo web en Cuenca, España. A mis 19 años, estoy inmerso en el mundo del desarrollo web, explorando cada rincón del ecosistema tecnológico con entusiasmo y dedicación.<br><br>Acerca de mí:<br>📚 Actualmente estudio Desarrollo Web, donde estoy adquiriendo habilidades sólidas en HTML, CSS, JavaScript, y más.<br>💻 Amante de la programación, disfruto resolviendo problemas y creando soluciones innovadoras.<br>🌱 Siempre en búsqueda de aprender nuevas tecnologías y mejorar mis habilidades.<br>🎨 Me encanta el diseño web y cómo se integra con la funcionalidad para crear experiencias increíbles.<br>🚀 Apasionado por el desarrollo ágil y la colaboración en equipo.
+
+<b>Edgar Milá Molero<b>
+Soy Edgar, un entusiasta del desarrollo web de Cuenca, España, con 19 años. Actualmente, trabajo como Fullstack Developer en Soluciones IP, donde contribuyo al desarrollo del CRM Mobilia utilizando tecnologías como Angular y .NET. Mi pasión por la tecnología me impulsa a explorar continuamente el ecosistema del desarrollo web.
+
+Acerca de mí:
+
+Estoy cursando estudios en Desarrollo Web, consolidando mis conocimientos en HTML, CSS, JavaScript, entre otras tecnologías.
+Disfruto de la programación, resolviendo problemas y creando soluciones innovadoras que aportan valor.
+Siempre en busca de aprender nuevas tecnologías y mejorar mis competencias.
+Apasionado por el diseño web y su integración con la funcionalidad para crear experiencias de usuario efectivas.
+Firme defensor del desarrollo ágil y la colaboración en equipo para alcanzar objetivos comunes.
 
 
 ## 🌐 Socials:
