@@ -31,3 +31,4 @@ Firme defensor del desarrollo ágil y la colaboración en equipo para alcanzar o
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### CodeWars
 ![](https://www.codewars.com/users/3dgar/badges/large)
+https://www.codewars.com/users/3dgar
