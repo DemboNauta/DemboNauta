@@ -1,16 +1,24 @@
-#  Sobre mi <b>Edgar Milá Molero<b>:
+# Edgar Milá Molero
+## Fullstack Developer | AI Implementation Specialist
 
+I am a Fullstack Developer based in Cuenca, Spain, specialized in architecting advanced digital solutions and integrating Artificial Intelligence into enterprise ecosystems. Currently, I work at **Soluciones IP**, where I lead the integration of AI capabilities and **Model Context Protocol (MCP)** implementations within the **Mobilia CRM**.
 
-Soy Edgar, un entusiasta del desarrollo web de Cuenca, España. Actualmente, trabajo como Fullstack Developer en Soluciones IP, donde contribuyo al desarrollo del CRM Mobilia utilizando tecnologías como Angular y .NET. Integrando IA en el CRM utilizando python y .NET.
+My technical focus lies in bridging the gap between Large Language Models and production environments, primarily leveraging **.NET**, **Laravel**, and **Python** to create seamless, data-driven automations.
 
-Acerca de mí:
+### Professional Profile
 
-Estoy cursando estudios en Desarrollo Web, consolidando mis conocimientos en HTML, CSS, JavaScript, entre otras tecnologías.
-Disfruto de la programación, resolviendo problemas y creando soluciones innovadoras que aportan valor.
-Siempre en busca de aprender nuevas tecnologías y mejorar mis competencias.
-Apasionado por el diseño web y su integración con la funcionalidad para crear experiencias de usuario efectivas.
-Firme defensor del desarrollo ágil y la colaboración en equipo para alcanzar objetivos comunes.
+* **AI & MCP Integration:** Expert in implementing AI workflows and Model Context Protocols to enhance tool interoperability and system intelligence within **.NET** and **PHP/Laravel** architectures.
+* **Fullstack Development:** Proficient in building robust back-end systems and dynamic front-end interfaces, ensuring high performance and scalability.
+* **Strategic Problem Solving:** Dedicated to developing innovative tools that solve complex business logic challenges and provide measurable value.
+* **Continuous Innovation:** Actively researching emerging AI trends and architectural patterns to maintain a competitive edge in software development.
+* **Agile & Collaborative:** A strong proponent of **Agile methodologies**, focusing on streamlined communication and collective success within technical teams.
 
+### Technical Core
+
+* **Languages & Frameworks:** .NET (C#), Laravel (PHP), Python, JavaScript/Angular.
+* **AI Specialization:** MCP Implementation, LLM Integration, Automation Workflows.
+* **Web Technologies:** HTML5, CSS3, RESTful APIs, Database Management.
+* **Methodologies:** Agile, Scrum, User-Centric Design.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mil%C3%A1-molero/) 
